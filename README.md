@@ -15,6 +15,8 @@ A Flutter mobile application for indoor plant care. Provides plant details, care
 - Dart
 - SQLite
 
+![Plant Get Started](https://github.com/user-attachments/assets/9486f18f-d81b-4baa-929c-405ddb8076ab)
+
 ## Getting Started
 
 To run this project locally:
@@ -22,4 +24,3 @@ To run this project locally:
 1. Clone the repository:  
 ```bash
 git clone https://github.com/IsuruParindya/plant_care.git
-![Plant Get Started](https://github.com/user-attachments/assets/9486f18f-d81b-4baa-929c-405ddb8076ab)
