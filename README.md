@@ -1,4 +1,5 @@
-![Plant Get Started](https://github.com/user-attachments/assets/d1008f66-89a4-437d-9473-796bae8f33ce)# Indoor Plant Care Mobile App
+![Plant Get Started](https://github.com/user-attachments/assets/d1008f66-89a4-437d-9473-796bae8f33ce)
+# Indoor Plant Care Mobile App
 
 A Flutter mobile application for indoor plant care. Provides plant details, care schedules, and maintenance guidance, with offline data storage powered by SQLite.
 
