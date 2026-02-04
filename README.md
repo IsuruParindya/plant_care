@@ -15,8 +15,6 @@ A Flutter mobile application for indoor plant care. Provides plant details, care
 - Dart
 - SQLite
 
-![Plant Care](https://github.com/user-attachments/assets/df6f1fad-9838-45cf-9ba5-855b3d40afdd)
-
 ## Getting Started
 
 To run this project locally:
