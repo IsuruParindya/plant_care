@@ -1,16 +1,24 @@
-# plant_care
+# Indoor Plant Care Mobile App
 
-A new Flutter project.
+A Flutter mobile application for indoor plant care. Provides plant details, care schedules, and maintenance guidance, with offline data storage powered by SQLite.
+
+## Features
+
+- View detailed information about indoor plants
+- Track care schedules and reminders
+- Offline access using SQLite
+- User-friendly interface for easy navigation
+
+## Technologies Used
+
+- Flutter
+- Dart
+- SQLite
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:  
+```bash
+git clone https://github.com/IsuruParindya/plant_care.git
