@@ -2,7 +2,7 @@
 
 Plant Care Log is a Flutter-based mobile application designed to help users manage plant information and basic user account data. The app focuses on simplicity, offline usage, and clean UI design for plant enthusiasts and home gardeners.
 
-## Features
+## Features of the App
 
 - User account management (Sign Up, Sign In, Edit Profile)
 - View a curated list of plants with images and care details
