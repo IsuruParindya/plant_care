@@ -29,7 +29,7 @@ User and plant-related data are stored as **JSON-encoded objects** under specifi
 - iOS
 - Web (limited local storage support)
 
-## Getting Started
+## Getting Started,
 
 To run this project locally:
 
